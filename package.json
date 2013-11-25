@@ -1,0 +1,11 @@
+{
+  "name": "mongoose-iterator",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jshwaluk/mongoose-iterator",
+  "private": false,
+  "dependencies": {
+    "mongoose": "3.6.7",
+    "moment": "~2.0.0",
+    "underscore": "~1.5.2"
+  }
+}
